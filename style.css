@@ -1,0 +1,9 @@
+.canvas3{
+    margin-left: 40%;
+    margin-top: 30px;
+    border: 3px solid rgb(95, 95, 95);
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.9);
+}
+body{
+    background-color: rgb(212, 214, 180);
+}
